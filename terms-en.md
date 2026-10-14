@@ -2,13 +2,11 @@
 title: MadoAI Terms of Use
 ---
 
-<!-- Terms version: 2026-10-13-draft3. This string goes into the consent record of a voice profile (termsVersion in consent.json).
-     The same full text is bundled in the app (the import screen opens the bundled text). For the final version, remove the "draft" notice below and replace the version string. -->
+<!-- Terms version: 2026-10-14. This string goes into the consent record of a voice profile (termsVersion in consent.json).
+     The same full text is bundled in the app (the import screen opens the bundled text). -->
 
-> **This is a draft.** It is not final.
-
-Terms version: 2026-10-13-draft3
-Last updated: 13 October 2026
+Terms version: 2026-10-14
+Last updated: 14 October 2026
 
 These terms are the agreement for using MadoAI (the "app").
 Please read them before you use the app.
