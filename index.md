@@ -9,11 +9,13 @@ An AI companion app that lives on your smartphone or PC.
 
 - [サポート](support-ja.html)
 - [プライバシーポリシー](privacy-ja.html)
+- [利用規約](terms-ja.html)
 
 ## English
 
 - [Support](support-en.html)
 - [Privacy Policy](privacy-en.html)
+- [Terms of Use](terms-en.html)
 
 ## お問い合わせ / Contact
 

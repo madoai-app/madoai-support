@@ -1,6 +1,6 @@
 # MadoAI のサポートと規約
 
-Google Play が求める 2 枚（サポート・プライバシーポリシー）を置く場所。
+Google Play が求める 2 枚（サポート・プライバシーポリシー）と利用規約を置く場所。
 **アプリのソースは別のリポジトリ**（非公開）で、ここには HTML になる文書しか
 置かない。
 
@@ -10,6 +10,8 @@ support-ja.md   サポート        日本語
 support-en.md   Support         英語
 privacy-ja.md   プライバシー     日本語
 privacy-en.md   Privacy Policy  英語
+terms-ja.md     利用規約         日本語
+terms-en.md     Terms of Use    英語
 ```
 
 ## 直すときは
